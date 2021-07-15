@@ -328,9 +328,7 @@ h1, h2, h3, h4, h5, h6 {
 	color:#0563bb !important;
 	}
 	
-	.bi-x{
-	olor:white !important;
-	}
+	
 	
 	.ab-main-logo{
 	height: 40px;
@@ -344,6 +342,9 @@ h1, h2, h3, h4, h5, h6 {
 	
 }
 
+.bi-x{
+	color:white !important;
+	}
 #hero:before {
   content: "";
   background: rgba(0,0,0,0.5);
