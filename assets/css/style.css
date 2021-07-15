@@ -292,19 +292,19 @@ h1, h2, h3, h4, h5, h6 {
 	  float:left;
   }
 	.ab-main-logo{
-	height: 100px;
+	height: 50px;
 	padding-left: 20px;
 	position: fixed;
 	Z-index: 12;
-	left: 150px;
-	top: 30px;
+	left: 20px;
+	top: 20px;
 	}
 	
 }
 
 @media (max-width: 992px) {
 	.ab-container{
-		padding-top:100px;
+	padding-top:100px;
 	}
 	
 	.ab-container2{
@@ -324,8 +324,12 @@ h1, h2, h3, h4, h5, h6 {
 	color:#0563bb !important;
 	}
 	
+	.bi-x{
+	olor:white !important;
+	}
+	
 	.ab-main-logo{
-	height: 100px;
+	height: 40px;
 	padding-left: 10px;
 	padding-top: 10px;
 	position: fixed;
