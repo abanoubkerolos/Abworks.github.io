@@ -328,7 +328,10 @@ h1, h2, h3, h4, h5, h6 {
 	color:#0563bb !important;
 	}
 	
-	
+	.ab-container3{
+	max-width:70%;
+	margin-left:15%;	
+	}
 	
 	.ab-main-logo{
 	height: 40px;
